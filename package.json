@@ -1,0 +1,28 @@
+{
+  "name": "f5-core",
+  "version": "1.0.0",
+  "description": "f5 freshup hospitality core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frshup/f5-core.git"
+  },
+  "author": "Dhananjaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frshup/f5-core/issues"
+  },
+  "homepage": "https://github.com/frshup/f5-core#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "js-money": "^0.6.1"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
